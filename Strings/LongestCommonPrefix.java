@@ -1,3 +1,4 @@
+package Strings;
 /*
 
 14. Longest Common Prefix
@@ -27,10 +28,6 @@ strs[i] consists of only lowercase English letters if it is non-empty.
  * 
  * 
  */
-
-
-
-
 
 public class LongestCommonPrefix {
 
